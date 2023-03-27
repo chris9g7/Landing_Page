@@ -1,2 +1,2 @@
 # Landing_Page
-Landing_page using html and css
+Landing page using html and css

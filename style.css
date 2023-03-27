@@ -1,0 +1,155 @@
+body {
+    background-color: #030201;
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+}
+
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: 50px auto;
+
+}
+
+.header {
+    margin-top: 10px;
+    padding: 10px 5px;
+    height: 50px;
+    background-color: #030201;
+    cursor: pointer;
+
+
+
+}
+
+.first {
+    box-sizing: border-box;
+    margin-left: 10px;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #C0C0C0;
+    border-radius: 50%;
+    border: 3px red solid;
+    color: #141313;
+    display: inline;
+    font-size: 20px;
+
+
+}
+
+
+li,
+ul {
+
+    list-style: none;
+    float: left;
+    margin: 8px;
+    padding: 12px;
+    font-size: large;
+    font-weight: 800;
+    color: #A020F0;
+
+}
+
+nav {
+    margin-left: 23px;
+
+    margin-top: -60px;
+}
+
+
+.btn>button {
+
+    display: inline;
+    padding-left: 2px;
+    margin-top: 35px;
+    border: red;
+    padding: 2px 5px;
+    color: white;
+    background-color: red;
+    font-weight: 700;
+    font-size: 23px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.footer>button {
+    color: white;
+    background-color: red;
+    font-size: 50px;
+    float: left;
+    margin-left: 20px;
+    font-weight: 700;
+    border-radius: 15px;
+    border: #DA2C43;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+
+.line>p {
+    margin-left: 20px;
+    color: red;
+    font-weight: 550;
+
+}
+
+.sec1 {
+    color: #fff;
+    font-size: 40px;
+    max-width: 15ch;
+    font-weight: 900;
+    float: left;
+    margin-left: 20px;
+}
+
+
+span>img {
+    display: block;
+    position: absolute;
+    height: 300px;
+    border-radius: 100px;
+    display: inline;
+    margin-left: -120px;
+    z-index: -1;
+
+}
+
+.cont>p {
+    margin-left: 18px;
+    display: block;
+    color: #fff;
+    float: left;
+    max-width: 50ch;
+
+}
+
+#four>img {
+
+    display: inline;
+    height: 18px;
+    border: 4px red solid;
+    margin: -2px;
+    border-radius: 15px;
+
+
+}
+
+span>p {
+    font-weight: 900;
+    margin-top: -20px;
+    color: #fff;
+    line-height: 6px;
+}
+
+li:hover {
+    color: red;
+}
+
+button:hover {
+
+    background-color: rgb(30, 150, 202);
+}
